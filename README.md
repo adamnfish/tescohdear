@@ -1,6 +1,9 @@
 Tescohdear
 ==========
 
+Firstly, see the *important notice* at the bottom of this file, and
+the extra conditions in the licence.
+
 So as
 [you'll have already heard](http://mtdevans.com/projects/barcode/),
 Tesco may have implemented a very simple system for adding offers to
